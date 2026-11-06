@@ -60,7 +60,7 @@ Vitest and React Testing Library are installed and configured in `vite.config.ts
 
 > 💡 **Reminder**: Work on one feature branch per issue.
 
-- Work on the issues in sequence.
+- Start with the setup issues 11, 12 and 13, then work on the user stories in the order of their numbers.
 - Only one issue should be in the "In Progress" column at any given time.
 - Use one branch and one pull request for every issue.
 - Merge a pull request only when the CI checks and the quality gate are green.
