@@ -1,4 +1,4 @@
-# 13: Setup - SonarQube Cloud and Branch Protection
+# 3: Setup - SonarQube Cloud and Branch Protection
 
 This is the last setup issue. SonarQube Cloud checks the quality of every pull request, and `main` is protected.
 
@@ -21,7 +21,7 @@ This is the last setup issue. SonarQube Cloud checks the quality of every pull r
 
 - [ ] In the browser: create the organization and the project in SonarQube Cloud, switch off the automatic analysis and add the token as the GitHub secret `SONAR_TOKEN`. Never paste the token into a prompt.
 - [ ] Add `sonar-project.properties` and `.github/workflows/sonar.yml` like in the Code Quality Tooling and Code Review session: the coverage runs before the scan, with `fetch-depth: 0`.
-- [ ] After the workflows of issues 12 and 13 ran at least once: set up branch protection for `main` in the settings of your repository.
+- [ ] After the workflows of issues 2 and 3 ran at least once: set up branch protection for `main` in the settings of your repository.
 
 <details>
 <summary>Hint ✨</summary>

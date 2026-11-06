@@ -1,6 +1,6 @@
-# 11: Setup - Tooling and CLAUDE.md
+# 1: Setup - Tooling and CLAUDE.md
 
-This is the first setup issue: work on the setup issues 11, 12 and 13 before the user stories. The project gets the scripts that check your code, and Claude gets the instructions for this project.
+This is the first setup issue: work on the setup issues 1, 2 and 3 before the user stories. The project gets the scripts that check your code, and Claude gets the instructions for this project.
 
 ## Value Proposition
 

@@ -1,4 +1,4 @@
-# 9: Bonus - Persist Favorites and Comments in the Browser
+# 12: Bonus - Persist Favorites and Comments in the Browser
 
 This is a bonus story: work on it when all other stories are done. Currently, all data is saved using `useState`, which means it is lost upon page refresh. To improve the user experience, we want to persist it in the browser's local storage.
 

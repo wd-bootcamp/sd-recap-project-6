@@ -1,4 +1,4 @@
-# 4: Art Piece Details Page
+# 7: Art Piece Details Page
 
 When a user clicks on an art piece, they see all detailed information about it, along with an option to navigate back to the list of art pieces.
 

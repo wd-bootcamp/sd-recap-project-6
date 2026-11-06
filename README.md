@@ -14,7 +14,7 @@ To open the wireframes file `wireframes.excalidraw.png` in VS Code, install the 
 
 ## User Stories
 
-The user stories are the issues of your repository. There are 13 issues: the 10 user stories (8 core stories and 2 bonus stories) and three setup issues (11 to 13). Each issue contains a value proposition, acceptance criteria, tasks and, for some issues, a hint. Start with the setup issues 11, 12 and 13, then work on the user stories in the order of their numbers.
+The user stories are the issues of your repository. There are 13 issues: the 10 user stories (8 core stories and 2 bonus stories) and three setup issues (1 to 3). The user stories are issues 4 to 13. Each issue contains a value proposition, acceptance criteria, tasks and, for some issues, a hint. Start with the setup issues 1, 2 and 3, then work on the user stories 4 to 13 in the order of their numbers.
 
 ## API
 
@@ -24,7 +24,7 @@ We fetch all necessary information about the art pieces from an API specifically
 https://example-apis.vercel.app/api/art
 ```
 
-An art piece looks like this. The first user story defines a TypeScript type for it:
+An art piece looks like this. The Gallery Page story (issue 4) defines a TypeScript type for it:
 
 ```json
 {
@@ -60,7 +60,7 @@ Vitest and React Testing Library are installed and configured in `vite.config.ts
 
 > 💡 **Reminder**: Work on one feature branch per issue.
 
-- Start with the setup issues 11, 12 and 13, then work on the user stories in the order of their numbers.
+- Start with the setup issues 1, 2 and 3, then work on the user stories 4 to 13 in the order of their numbers.
 - Only one issue should be in the "In Progress" column at any given time.
 - Use one branch and one pull request for every issue.
 - Merge a pull request only when the CI checks and the quality gate are green.

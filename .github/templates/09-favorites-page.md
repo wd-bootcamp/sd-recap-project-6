@@ -1,4 +1,4 @@
-# 6: Favorites Page
+# 9: Favorites Page
 
 The Favorites page displays a list of all favorite art pieces. Each art piece shows its image, artist's name, title and a favorite button.
 

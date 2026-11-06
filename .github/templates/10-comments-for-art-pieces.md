@@ -1,4 +1,4 @@
-# 7: Comments for Art Pieces
+# 10: Comments for Art Pieces
 
 To enhance user engagement, we add a commenting feature that allows users to write and view comments on each art piece. A comment section is displayed on the details page, showing the comments of the art piece being viewed.
 

@@ -1,4 +1,4 @@
-# 5: Mark Art Pieces as Favorites
+# 8: Mark Art Pieces as Favorites
 
 Users want the ability to mark art pieces as favorites. Users can do this on the Gallery page, the Spotlight page and the Details page. The favorite button is reused on all of these pages.
 

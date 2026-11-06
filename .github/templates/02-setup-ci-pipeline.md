@@ -1,4 +1,4 @@
-# 12: Setup - CI Pipeline
+# 2: Setup - CI Pipeline
 
 This is the second setup issue. Every pull request is checked automatically on GitHub.
 
@@ -23,6 +23,6 @@ This is the second setup issue. Every pull request is checked automatically on G
 <details>
 <summary>Hint ✨</summary>
 
-`npm ci` needs the `package-lock.json` of the repository. Use the scripts from issue 11: the workflow runs the same checks as you do locally.
+`npm ci` needs the `package-lock.json` of the repository. Use the scripts from issue 1: the workflow runs the same checks as you do locally.
 
 </details>

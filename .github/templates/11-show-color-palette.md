@@ -1,4 +1,4 @@
-# 8: Show Color Palette
+# 11: Show Color Palette
 
 To enrich the information displayed on the details page, we add a color palette for each art piece.
 

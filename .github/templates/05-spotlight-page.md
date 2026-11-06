@@ -1,4 +1,4 @@
-# 2: Spotlight Page
+# 5: Spotlight Page
 
 This page is the app's homepage. A random art piece image, along with its artist's name, is displayed as a spotlight feature.
 

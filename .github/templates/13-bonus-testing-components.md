@@ -1,4 +1,4 @@
-# 10: Bonus - Testing Components
+# 13: Bonus - Testing Components
 
 As developers, we want to avoid repetitive manual testing by automating component tests.
 
