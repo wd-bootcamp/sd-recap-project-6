@@ -12,7 +12,7 @@ This is an individual project: everybody creates their own repository.
 
 1. Click on the "Use this template" button on the GitHub template repository page to create your new repository.
 2. Choose **Public** as the visibility: branch protection on a free GitHub account needs a public repository, and SonarQube Cloud is free for public repositories.
-3. Open the **"Issues"** tab of your new repository. After a short moment, 10 issues (the user stories) appear there: 8 core stories and 2 bonus stories.
+3. Open the **"Issues"** tab of your new repository. After a short moment, 13 issues appear there: 8 core stories, 2 bonus stories and 3 setup issues.
 
 > 💡 Do not run the action twice: if the issues are already there, you are done with this step. Only if the "Issues" tab is still empty after a few minutes, open the **"Actions"** tab, select the workflow **create-issues** and click "Run workflow".
 

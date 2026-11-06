@@ -14,7 +14,7 @@ To open the wireframes file `wireframes.excalidraw.png` in VS Code, install the 
 
 ## User Stories
 
-The user stories are the issues of your repository: there are 10 of them (8 core stories and 2 bonus stories). Each issue contains a value proposition, acceptance criteria, tasks and, for some stories, a hint. Work on them in the order of their numbers.
+The user stories are the issues of your repository. There are 13 issues: the 10 user stories (8 core stories and 2 bonus stories) and three setup issues (11 to 13). Each issue contains a value proposition, acceptance criteria, tasks and, for some issues, a hint. Start with the setup issues 11, 12 and 13, then work on the user stories in the order of their numbers.
 
 ## API
 
