@@ -56,7 +56,7 @@ Vitest and React Testing Library are installed and configured in `vite.config.ts
 
 🚀 Project deployment to Vercel is required: Please follow [these instructions](https://github.com/wd-bootcamp/cohort-template/blob/main/docs/deployment-vercel.md) to deploy the project on Vercel. Vercel detects Vite automatically.
 
-## Working on Your Own
+## Working on the Issues
 
 > 💡 **Reminder**: Work on one feature branch per issue.
 
